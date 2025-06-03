@@ -1,0 +1,36 @@
+
+public class Knowledge_data {
+
+}
+
+
+//This class is just for some knowledge data
+
+/*when commiting files
+
+
+//when writing code until we commit to local repository, we have 4 stages for the fles
+ * 
+ * 1)untracked file : it on the workspace, in my case on eclipse
+ * 2)Tracked files: Added on workspace by add command
+ * 3)commited file: commited to local reposotory
+ * 4)Remote file: commited to remote reposotory
+
+
+Step 1 create local repo by command "git init" in the workspace path
+
+create user
+git config --global user.name "Rintu"
+git config --global user.email "rintu_8@rediffmail.com"
+
+
+Step 2: Add file to staging
+
+use git status to see all the untracked files
+
+use git -A to add all files
+use git -filename for specifc file
+or
+git add *.java
+ * 
+ */
