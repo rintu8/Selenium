@@ -1,0 +1,33 @@
+
+public class CodingProgram4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String str1 = "a2b2c4";
+		
+		for(int i=0;i<str1.length;i++) {
+			
+			if(Character.isAlphabetic(str1.charAt(i))) {
+				
+				System.out.println(str1.charAt(i));
+				
+				
+			}
+			
+			else {
+				
+				int a = Character.getNumericValue(str1.charAt(i));
+				
+				for (int j=0;j<a;j++) {
+					
+					System.out.println(str1.charAt(i-1));
+				}
+			}
+			
+		}
+		
+		
+	}
+
+}

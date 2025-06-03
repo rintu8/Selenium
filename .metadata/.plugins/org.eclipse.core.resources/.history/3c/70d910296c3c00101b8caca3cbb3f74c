@@ -1,0 +1,20 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class Practice {
+
+	public static void main(String[] args) {
+		
+		String str = "I am learning learning Java Java Java";
+		int count = 1;
+		
+		String [] arr = str.split(" ");
+		
+		Map<String,Integer> map = new HashMap<String,Integer>();
+		
+		
+			
+		}
+	}
+
+

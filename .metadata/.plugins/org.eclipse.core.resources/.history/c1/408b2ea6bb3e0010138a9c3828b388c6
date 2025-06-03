@@ -1,0 +1,13 @@
+
+public class CodingProgram7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//example of a 2D array
+		
+		String [][] arr1= {{"a","b","c"},{"d","e"}};
+
+	}
+
+}

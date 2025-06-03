@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+
+/**
+ * 
+ */
+public class CodingProgram6 {
+
+	//Program to reverse the contents of an array
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int [] arr = {10,20,30,40,50,60};
+		int temp = 0;
+		int j = arr.length-1;
+		
+		
+
+	}
+
+}

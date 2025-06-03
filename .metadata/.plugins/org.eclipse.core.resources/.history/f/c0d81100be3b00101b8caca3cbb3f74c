@@ -1,0 +1,15 @@
+
+public class CodingProblem1 {
+	
+	
+	
+	//program to get count of words in a sentence
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String str = "I am learning learning Java Java Java";
+
+	}
+
+}

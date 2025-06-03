@@ -1,0 +1,14 @@
+package com.crm.qa.pages;
+
+import com.crm.qa.base.TestBase;
+
+public class LoginPage extends TestBase {
+	
+	
+	//Now define page factory of login page
+	
+	
+	
+	
+
+}

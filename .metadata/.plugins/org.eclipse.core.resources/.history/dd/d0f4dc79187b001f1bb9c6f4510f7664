@@ -1,0 +1,28 @@
+package com.crm.qa.base;
+
+import java.io.FileNotFoundException;
+
+import org.openqa.selenium.WebDriver;
+
+public class TestBase {
+	
+	static WebDriver driver;
+	
+	
+	//Create a simple constructor
+	
+	public TestBase(){
+		
+		
+		try {
+			
+		} catch(FileNotFoundException e) {
+			e.printStackTrace();
+			
+		} catch(IOException e) {
+			e.printStackTrace();
+		}
+		
+	}
+
+}

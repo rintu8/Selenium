@@ -1,0 +1,16 @@
+package com.crm.qa.base;
+
+import org.openqa.selenium.WebDriver;
+
+public class TestBase {
+	
+	static WebDriver driver;
+	
+	
+	//Create a simple constructor
+	
+	TestBase(){
+		
+	}
+
+}

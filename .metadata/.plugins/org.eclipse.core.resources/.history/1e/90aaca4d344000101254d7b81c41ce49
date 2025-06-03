@@ -1,0 +1,22 @@
+
+public class Knowledge_data {
+
+}
+
+
+//This class is just for some knowledge data
+
+/*when commiting files
+
+
+//when writing code until we commit to local repository, we have 4 stages for the fles
+ * 
+ * 1)untracked file : it on the workspace, in my case on eclipse
+ * 2)Tracked files: Added on workspace by add command
+ * 3)commited file: commited to local reposotory
+ * 4)Remote file: commited to remote reposotory
+
+
+
+ * 
+ */
