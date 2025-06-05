@@ -1,0 +1,68 @@
+
+public class Session5_MethodsConstructors {
+
+	public class MovieView {
+		// TODO Auto-generated method stub
+		
+		private String MovieName;
+		private Float ShowTime;
+		private int SeatNumber;
+		private String UserName;
+		
+		
+		//Create a constructor
+		
+		
+	public MovieView(String MovieName,Float ShowTime,int SeatNumber,String UserName) {
+		
+		this.MovieName=MovieName;
+		this.ShowTime=ShowTime;
+		this.SeatNumber=SeatNumber;
+		this.UserName=UserName;
+		
+	}
+	
+	//define getters and setters
+		public String GetMovieName() {
+			
+			return MovieName;
+			
+		}
+
+		
+			public void SetMovieName() {
+			
+				this.MovieName=MovieName;
+			
+		}
+			
+			public Float GetShowTime() {
+				
+				return ShowTime;
+				
+			}
+
+			
+				public void SetShowTime() {
+				
+				this.ShowTime=ShowTime;
+				
+			}
+				
+				public int GetSeatNumber() {
+					
+					return SeatNumber;
+					
+				}
+
+				
+					public void SetSeatNumber() {
+					
+					this.SeatNumber=SeatNumber;
+					
+				}
+				
+				
+	}
+
+}
